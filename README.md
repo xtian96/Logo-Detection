@@ -10,3 +10,5 @@ install pycoral:
 sudo apt-get install python3-pycoral
 
 Run the commands.txt in terminal
+
+FOR LATER USE: Run Coral-commands.txt in terminal
